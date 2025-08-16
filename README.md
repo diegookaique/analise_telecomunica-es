@@ -77,3 +77,21 @@ Pode se avaliar que 50% dos clientes não possuem um suporte tecnico. Otimo Insg
 * casado: Foi identificado que clientes casados são menos propicios a dar churn. Com média de 63% para não casados e 36% para os casados.
 * Idosos: Na analise a maioria dos Idosos são não Churn, 75% dos clientes não idosos dão Churn.
 * genero: por ultimo e não menos importante que as outras variaveis, foi possivel analisar que Os homens tem uma proporção um pouco maior com 51% de não churn e as mulheres com 47% de não churn.
+
+  # Estrutura do Repositório 📂
+data/: Arquivos CSV usados ​​na análise.
+
+imagens/: Gráfico gerado pelo código.
+
+notebooks/: Scripts que você pode executar para reproduzir os resultados.
+
+# Tecnologias Utilizadas 🔧
+
+Python
+
+Pandas
+
+Seaborn 
+
+Matplotlib
+
