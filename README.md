@@ -4,6 +4,9 @@ Análise de Churn em uma Empresa de Telecomunicações
 ## Análise de Churn em uma Empresa de Telecomunicações
 Este repositório contém um script em Python para analisar dados de churn em uma empresa de telecomunicações. Ele realiza análises estatísticas, univariadas e bivariadas, além de identificar outliers e salvar gráficos como imagens para facilitar a visualização.
 
+![download](https://github.com/user-attachments/assets/7399ab82-5021-4fbd-aad7-3047a020ba11)
+
+
 ## Análise Univariada
 
 <img width="562" height="435" alt="download" src="https://github.com/user-attachments/assets/3c3e5599-c7ec-413e-8e22-6b38b073297a" />
